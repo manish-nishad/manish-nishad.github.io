@@ -15,7 +15,7 @@ const Github = () => {
             lineHeight={'110%'}>
             My Github Statistics
           </Heading>
-        <GitHubCalendar blockSize={15} blockMargin={5} fontSize={16} bg={useColorModeValue('blue.50', 'blue.400')} username="MAKNISH">
+        <GitHubCalendar blockSize={15} blockMargin={5} fontSize={16} bg={useColorModeValue('blue.50', 'blue.400')} username="manish-nishad">
           </GitHubCalendar>
             <VStack spacing='20px' py={6}>
                 <Image align={'center'} src="https://github-readme-streak-stats.herokuapp.com/?user=maknish&" alt="maknish">
