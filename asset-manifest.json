@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.15196e9e.js",
+    "main.css": "/static/css/main.512ba697.css",
+    "main.js": "/static/js/main.367fe965.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/DSC_2930-Croped-300kb.jpg": "/static/media/DSC_2930-Croped-300kb.dc1dfdc7bb3a86580f28.jpg",
+    "static/media/bewakoof.com_600x380.jpg": "/static/media/bewakoof.com_600x380.6293b7e75c0ed7b89dbf.jpg",
+    "static/media/nordstrom.com_600x380.jpg": "/static/media/nordstrom.com_600x380.8daac5fea0afafe7564c.jpg",
+    "static/media/mn-logo.jpg": "/static/media/mn-logo.9f730d17d59e7dd4973f.jpg",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.15196e9e.js.map": "/static/js/main.15196e9e.js.map",
+    "main.512ba697.css.map": "/static/css/main.512ba697.css.map",
+    "main.367fe965.js.map": "/static/js/main.367fe965.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.15196e9e.js"
+    "static/css/main.512ba697.css",
+    "static/js/main.367fe965.js"
   ]
 }
