@@ -18,7 +18,7 @@ const Github = () => {
         <GitHubCalendar blockSize={15} blockMargin={5} fontSize={16} bg={useColorModeValue('blue.50', 'blue.400')} username="manish-nishad">
           </GitHubCalendar>
             <VStack spacing='20px' py={6}>
-                <Image align={'center'} src="https://github-readme-streak-stats.herokuapp.com/?user=maknish&" alt="maknish">
+                <Image align={'center'} src="https://github-readme-streak-stats.herokuapp.com/?user=manish-nishad&" alt="manish-nishad">
                 </Image>
             </VStack>
         </Box>
