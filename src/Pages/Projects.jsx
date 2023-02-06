@@ -95,7 +95,7 @@ export default function ProjectsDummy() {
               bg={'blue.400'}
               position={''}
               _hover={{ bg: 'blue.500' }}
-            ><a href="https://lustrous-shortbread-3a021b.netlify.app/" target={"blank"}>Live</a><AiOutlineRise size={25} />
+            ><a href="https://lustrous-shortbread-3a021b.netlify.app" target={"blank"}>Live</a><AiOutlineRise size={25} />
           </Button>
       </Stack>
     </Box>

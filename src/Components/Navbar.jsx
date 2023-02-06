@@ -92,6 +92,7 @@ export default function Navbar({handleHome, handleAbout, handleSkills, handlePro
               <NavLink><Box onClick={handleSkills}>Skills</Box></NavLink>
               <NavLink><Box onClick={handleProjects}>Projects</Box></NavLink>
               <NavLink><Box onClick={handleContacts}>Contacts</Box></NavLink>
+              <NavLink><Link href='https://drive.google.com/file/d/13qjwZkSn8jyAPmQKP2FUjQHi83__Tzgr/view?usp=share_link'>Resume</Link></NavLink>
             </Stack>
           </Box>
         ) : null}
