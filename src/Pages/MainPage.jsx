@@ -8,7 +8,7 @@ import Skills from './Skills';
 import { Box } from '@chakra-ui/react';
 import Projects from './Projects';
 import Contact from './Contact';
-import Footer from '../Components/Footer';
+// import Footer from '../Components/Footer';
 
 const MainPage = () => {
   const about = useRef(null);
