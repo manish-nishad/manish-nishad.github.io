@@ -66,9 +66,17 @@ import {
                 bg={'blue.400'}
                 position={''}
                 _hover={{ bg: 'blue.500' }}>
-                <a href="https://drive.google.com/u/0/uc?id=13qjwZkSn8jyAPmQKP2FUjQHi83__Tzgr&export=download">Resume</a>
-                <DownloadIcon _activeLink={"https://drive.google.com/u/0/uc?id=13qjwZkSn8jyAPmQKP2FUjQHi83__Tzgr&export=download"} />
+                <a href="https://drive.google.com/file/d/13qjwZkSn8jyAPmQKP2FUjQHi83__Tzgr/view?usp=share_link">Resume</a>
               </Button>
+              <Button
+              rounded={'full'}
+              size={'lg'}
+              fontWeight={'normal'}
+              px={6}
+              colorScheme={'blue'}
+              bg={'blue.400'}
+              position={''}
+              _hover={{ bg: 'blue.500' }}><a href='https://drive.google.com/u/0/uc?id=13qjwZkSn8jyAPmQKP2FUjQHi83__Tzgr&export=download'><DownloadIcon/></a> </Button>
             </Stack>
           </Stack>
           <Flex
@@ -88,11 +96,11 @@ import {
             />
             <Box
               position={'relative'}
-              height={'450px'}
+              height={'380px'}
               rounded={'2xl'}
               zIndex={-1}
               boxShadow={'2xl'}
-              width={'350px'}
+              width={'320px'}
               overflow={'hidden'}
               >
               <Image
@@ -112,6 +120,7 @@ import {
   export const Blob = (props) => {
     return (
       <Icon
+        marginTop={"20px"}
         width={'100%'}
         viewBox="0 0 578 440"
         fill="none"

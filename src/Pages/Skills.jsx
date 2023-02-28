@@ -11,7 +11,8 @@ import {
   
   export default function Sklls() {
     return (
-        <><Box textAlign={'center'}>
+        <>
+        <Box textAlign={'center'}>
         <Heading
             fontWeight={700}
             fontSize={{ base: '1xl', sm: '3xl', md: '3xl' }}
@@ -22,10 +23,9 @@ import {
     
       <Center py={12}>
         <Wrap spacing={'40px'} justify='center' width={'80%'}>
-            <WrapItem>
+            <WrapItem className='img-1'>
                 <Center w='150px' h='150px'>
                 <Image
-                    className='img-1'
                     height={'100%'}
                     width={'100%'}
                     objectFit={'cover'}
@@ -33,10 +33,9 @@ import {
                     />
                 </Center>
             </WrapItem>
-            <WrapItem>
+            <WrapItem className='img-2'>
                 <Center w='150px' h='150px'>
                 <Image
-                    className='img-2'
                     height={'100%'}
                     width={'100%'}
                     objectFit={'cover'}
@@ -44,10 +43,9 @@ import {
                     />
                 </Center>
             </WrapItem>
-            <WrapItem>
+            <WrapItem className='img-3'>
                 <Center w='150px' h='150px'>
                 <Image
-                    className='img-3'
                     height={'100%'}
                     width={'100%'}
                     objectFit={'cover'}
@@ -55,10 +53,9 @@ import {
                     />
                 </Center>
             </WrapItem>
-            <WrapItem>
+            <WrapItem className='img-4'>
                 <Center w='150px' h='150px'>
                 <Image
-                    className='img-4'
                     height={'100%'}
                     width={'100%'}
                     objectFit={'cover'}
@@ -66,10 +63,9 @@ import {
                     />
                 </Center>
             </WrapItem>
-            <WrapItem>
+            <WrapItem className='img-5'>
                 <Center w='150px' h='150px'>
                 <Image
-                    className='img-5'
                     height={'100%'}
                     width={'100%'}
                     objectFit={'cover'}
@@ -77,10 +73,9 @@ import {
                     />
                 </Center>
             </WrapItem>
-            <WrapItem>
+            <WrapItem className='img-6'>
                 <Center w='150px' h='150px'>
                 <Image
-                    className='img-6'
                     height={'100%'}
                     width={'100%'}
                     objectFit={'cover'}
@@ -88,10 +83,9 @@ import {
                     />
                 </Center>
             </WrapItem>
-            <WrapItem>
+            <WrapItem className='img-7'>
                 <Center w='150px' h='150px'>
                 <Image
-                    className='img-7'
                     height={'100%'}
                     width={'100%'}
                     objectFit={'cover'}
@@ -99,10 +93,9 @@ import {
                     />
                 </Center>
             </WrapItem>
-            <WrapItem>
+            <WrapItem className='img-8'>
                 <Center w='150px' h='150px'>
                 <Image
-                    className='img-8'
                     height={'100%'}
                     width={'100%'}
                     objectFit={'cover'}
@@ -110,10 +103,9 @@ import {
                     />
                 </Center>
             </WrapItem>
-            <WrapItem>
+            <WrapItem className='img-9'>
                 <Center w='150px' h='150px'>
                 <Image
-                    className='img-20'
                     height={'100%'}
                     width={'100%'}
                     objectFit={'cover'}
@@ -121,10 +113,9 @@ import {
                     />
                 </Center>
             </WrapItem>
-            <WrapItem>
+            <WrapItem className='img-10'>
                 <Center w='150px' h='150px'>
                 <Image
-                    className='img-9'
                     height={'100%'}
                     width={'100%'}
                     objectFit={'cover'}
@@ -132,10 +123,9 @@ import {
                     />
                 </Center>
             </WrapItem>
-            <WrapItem>
+            <WrapItem className='img-11'>
                 <Center w='150px' h='150px'>
                 <Image
-                    className='img-10'
                     height={'100%'}
                     width={'100%'}
                     objectFit={'cover'}
@@ -143,10 +133,9 @@ import {
                     />
                 </Center>
             </WrapItem>
-            <WrapItem>
+            <WrapItem className='img-12'>
                 <Center w='150px' h='150px'>
                 <Image
-                    className='img-11'
                     height={'100%'}
                     width={'100%'}
                     objectFit={'cover'}
@@ -154,10 +143,9 @@ import {
                     />
                 </Center>
             </WrapItem>
-            <WrapItem>
+            <WrapItem className='img-13'>
                 <Center w='150px' h='150px'>
                 <Image
-                    className='img-12'
                     height={'100%'}
                     width={'100%'}
                     objectFit={'cover'}

@@ -17,7 +17,7 @@ import {
 
   
   export default function About() {
-    const { hasCopied, onCopy } = useClipboard('example@example.com');
+    const { hasCopied, onCopy } = useClipboard('maknish1993@gmail.com');
 
     return (
       <Container maxW={'5xl'}>
@@ -81,31 +81,17 @@ import {
                       isRound
                     />
                   </Link>
-  
-                  <Link href="https://twitter.com/manishnishad18" target={'blank'}>
-                    <IconButton
-                      aria-label="twitter"
-                      variant="ghost"
-                      position={''}
-                      size="lg"
-                      icon={<BsTwitter size="28px" />}
-                      _hover={{
+    
+                  <Link _hover={{
                         bg: 'blue.300',
-                      }}
-                      isRound
-                    />
-                  </Link>
-  
-                  <Link href="https://www.linkedin.com/in/manish-nishad/" target={'blank'}>
+                      }} href="https://www.linkedin.com/in/manish-nishad/" target={'blank'}>
                     <IconButton
                       aria-label="linkedin"
                       variant="ghost"
                       position={''}
                       size="lg"
-                      icon={<BsLinkedin size="28px" />}
-                      _hover={{
-                        bg: 'blue.300',
-                      }}
+                      fontSize="3xl"
+                      icon={<BsLinkedin />}
                       isRound
                     />
                   </Link>

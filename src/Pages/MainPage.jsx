@@ -83,7 +83,7 @@ const MainPage = () => {
         <div data-aos="fade-up" ref={contacts}>
           <Contact/>
         </div>
-        <Footer />
+        {/* <Footer /> */}
       </Box>
     </>
   )

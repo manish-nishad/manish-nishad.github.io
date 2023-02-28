@@ -76,7 +76,7 @@ export default function Navbar({handleHome, handleAbout, handleSkills, handlePro
              <Box onClick={handleSkills}> <NavLink>Skills</NavLink></Box>
              <Box onClick={handleProjects}> <NavLink>Projects</NavLink></Box>
              <Box onClick={handleContacts}>    <NavLink>Contacts</NavLink></Box>
-             <Box><NavLink><Link href='https://drive.google.com/file/d/13qjwZkSn8jyAPmQKP2FUjQHi83__Tzgr/view?usp=share_link'>Resume</Link></NavLink></Box>
+             <Box><NavLink><Link style={{textDecoration:'none'}} href='https://drive.google.com/file/d/13qjwZkSn8jyAPmQKP2FUjQHi83__Tzgr/view?usp=share_link' target={"_blank"}>Resume</Link></NavLink></Box>
              
             </HStack>
             </Menu>
@@ -92,7 +92,7 @@ export default function Navbar({handleHome, handleAbout, handleSkills, handlePro
               <NavLink><Box onClick={handleSkills}>Skills</Box></NavLink>
               <NavLink><Box onClick={handleProjects}>Projects</Box></NavLink>
               <NavLink><Box onClick={handleContacts}>Contacts</Box></NavLink>
-              <NavLink><Link href='https://drive.google.com/file/d/13qjwZkSn8jyAPmQKP2FUjQHi83__Tzgr/view?usp=share_link'>Resume</Link></NavLink>
+              <NavLink><Link style={{textDecoration:'none'}} href='https://drive.google.com/file/d/13qjwZkSn8jyAPmQKP2FUjQHi83__Tzgr/view?usp=share_link'>Resume</Link></NavLink>
             </Stack>
           </Box>
         ) : null}
