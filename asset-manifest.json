@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.512ba697.css",
-    "main.js": "/static/js/main.251e96ad.js",
+    "main.css": "/static/css/main.db2a7d98.css",
+    "main.js": "/static/js/main.cb788ce9.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/DSC_2930-Croped-300kb.jpg": "/static/media/DSC_2930-Croped-300kb.dc1dfdc7bb3a86580f28.jpg",
+    "static/media/Firstcry_600x380.png": "/static/media/Firstcry_600x380.b07815730231c8d153ce.png",
+    "static/media/snapdeal_600x380.png": "/static/media/snapdeal_600x380.aaf16648961f54cf0785.png",
     "static/media/bewakoof.com_600x380.jpg": "/static/media/bewakoof.com_600x380.6293b7e75c0ed7b89dbf.jpg",
     "static/media/nordstrom.com_600x380.jpg": "/static/media/nordstrom.com_600x380.8daac5fea0afafe7564c.jpg",
     "static/media/mn-logo.jpg": "/static/media/mn-logo.9f730d17d59e7dd4973f.jpg",
     "index.html": "/index.html",
-    "main.512ba697.css.map": "/static/css/main.512ba697.css.map",
-    "main.251e96ad.js.map": "/static/js/main.251e96ad.js.map",
+    "main.db2a7d98.css.map": "/static/css/main.db2a7d98.css.map",
+    "main.cb788ce9.js.map": "/static/js/main.cb788ce9.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.512ba697.css",
-    "static/js/main.251e96ad.js"
+    "static/css/main.db2a7d98.css",
+    "static/js/main.cb788ce9.js"
   ]
 }
