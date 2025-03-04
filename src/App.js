@@ -1,12 +1,15 @@
-import logo from './logo.svg';
+import { ChakraProvider } from '@chakra-ui/react';
 import './App.css';
+import MainPage from './Pages/MainPage';
+// import { Provider } from '@/components/ui/provider';
 
-function App() {
+function App({ Components, pageProps }) { 
   return (
-    <div className="App">
-      Hello World
-    </div>
-  );
+    <ChakraProvider>
+      <MainPage />
+    </ChakraProvider>
+    
+  )
 }
 
 export default App;
